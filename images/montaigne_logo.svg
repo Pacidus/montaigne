@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="242.51091"
-   height="434.9501"
-   viewBox="0 0 242.51091 434.9501"
-   sodipodi:docname="montaigne.svg"
+   width="1220.7405"
+   height="541.97064"
+   viewBox="0 0 1220.7404 541.97064"
+   sodipodi:docname="montaigne_logo.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata8">
@@ -22,12 +22,39 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6" />
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter860"
+       x="-1.7517441e-05"
+       width="1.000035"
+       y="-9.7486044e-06"
+       height="1.0000195">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0017627111"
+         id="feGaussianBlur862" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter864"
+       x="-3.465525e-06"
+       width="1.0000069"
+       y="-7.8057857e-06"
+       height="1.0000156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0017627111"
+         id="feGaussianBlur866" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -42,32 +69,61 @@
      id="namedview4"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="0.69810346"
-     inkscape:cx="-181.52786"
-     inkscape:cy="354.39971"
+     inkscape:zoom="0.49363369"
+     inkscape:cx="334.39881"
+     inkscape:cy="494.79434"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10" />
+     inkscape:current-layer="g10"
+     inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g10"
-     transform="translate(-322.99597,-59.521422)">
-    <path
-       id="path14"
-       style="fill:#1b1b1b;fill-opacity:1;stroke:#1b1b1b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 379.64087,75.410012 c -18.19931,15.452528 1.82292,52.105788 23.74113,49.306278 19.8157,-6.66656 19.17016,-36.996877 41.96455,-39.587238 50.0722,-3.429833 79.26035,34.074168 82.16402,77.303468 0.006,40.97042 -4.55583,82.81701 7.21643,122.74954 -4.20934,69.50054 -42.94973,138.19422 -90.01571,153.81974 -8.72133,1.47582 -11.17032,2.5134 -22.41909,-0.34626 -28.17637,-13.88675 -34.06673,-19.56594 -60.33996,-4.04088 -14.62661,5.72865 -16.64907,2.68024 -26.29178,-4.57376 5.92044,17.92409 13.47856,24.30985 17.73048,30.66047 11.95116,15.88145 28.16775,39.61764 51.29788,31.70468 68.82038,-28.92737 121.44949,-80.02648 136.06083,-148.91118 3.01009,-21.13413 4.70094,-42.91233 11.13504,-63.24115 C 605.13261,175.40308 485.92763,8.440235 379.64087,75.410012 Z"
-       sodipodi:nodetypes="cccccccccccccc" />
-    <path
-       id="path847"
-       style="fill:#2a2a2a;fill-opacity:1;stroke:#2a2a2a;stroke-width:1.01007px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 387.05985,402.93179 c 36.2562,-0.91863 59.14556,41.20515 88.34502,16.87607 2.28167,-2.11962 6.0466,-8.25516 6.12736,-12.08623 -6.16125,5.40166 -11.02349,8.24833 -17.54276,8.94731 -25.7578,-15.5526 -34.03498,-35.32223 -65.71644,-37.28526 -14.92163,0.37928 -19.10361,14.54633 -11.21318,23.54811 z"
-       sodipodi:nodetypes="cccccc" />
-    <path
-       id="path847-7"
-       style="fill:#2a2a2a;fill-opacity:1;stroke:#2a2a2a;stroke-width:0.844833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 381.69776,403.38623 c -22.82424,-10.56554 -32.18828,24.26388 -46.0373,26.65467 -5.60776,-3.1714 -11.59947,-13.08042 -12.16282,-22.19371 7.0943,8.57515 10.40149,9.00883 12.70889,3.06966 11.14522,-22.92481 11.11296,-27.40465 36.77175,-30.33499 13.52307,1.06575 15.52768,13.73527 8.71948,22.80437 z"
-       sodipodi:nodetypes="cccccc" />
+     transform="translate(-207.58282,-7.4047723)">
+    <rect
+       style="opacity:0.998;fill:#7f7f7f;fill-opacity:1;stroke:none;filter:url(#filter864)"
+       id="rect843"
+       width="1220.7405"
+       height="541.97064"
+       x="207.58282"
+       y="7.4047709" />
+    <g
+       id="g850"
+       style="filter:url(#filter860)"
+       transform="translate(-15.910589,1.3924049)">
+      <path
+         id="path14"
+         style="fill:#1b1b1b;fill-opacity:1;stroke:#1b1b1b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 379.64087,75.410012 c -18.19931,15.452528 1.82292,52.105788 23.74113,49.306278 19.8157,-6.66656 19.17016,-36.996877 41.96455,-39.587238 50.0722,-3.429833 79.26035,34.074168 82.16402,77.303468 0.006,40.97042 -4.55583,82.81701 7.21643,122.74954 -4.20934,69.50054 -42.94973,138.19422 -90.01571,153.81974 -8.72133,1.47582 -11.17032,2.5134 -22.41909,-0.34626 -28.17637,-13.88675 -34.06673,-19.56594 -60.33996,-4.04088 -14.62661,5.72865 -16.64907,2.68024 -26.29178,-4.57376 5.92044,17.92409 13.47856,24.30985 17.73048,30.66047 11.95116,15.88145 28.16775,39.61764 51.29788,31.70468 68.82038,-28.92737 121.44949,-80.02648 136.06083,-148.91118 3.01009,-21.13413 4.70094,-42.91233 11.13504,-63.24115 C 605.13261,175.40308 485.92763,8.440235 379.64087,75.410012 Z"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <path
+         id="path847"
+         style="fill:#2a2a2a;fill-opacity:1;stroke:#2a2a2a;stroke-width:1.01007px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 387.05985,402.93179 c 36.2562,-0.91863 59.14556,41.20515 88.34502,16.87607 2.28167,-2.11962 6.0466,-8.25516 6.12736,-12.08623 -6.16125,5.40166 -11.02349,8.24833 -17.54276,8.94731 -25.7578,-15.5526 -34.03498,-35.32223 -65.71644,-37.28526 -14.92163,0.37928 -19.10361,14.54633 -11.21318,23.54811 z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path847-7"
+         style="fill:#2a2a2a;fill-opacity:1;stroke:#2a2a2a;stroke-width:0.844833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 381.69776,403.38623 c -22.82424,-10.56554 -32.18828,24.26388 -46.0373,26.65467 -5.60776,-3.1714 -11.59947,-13.08042 -12.16282,-22.19371 7.0943,8.57515 10.40149,9.00883 12.70889,3.06966 11.14522,-22.92481 11.11296,-27.40465 36.77175,-30.33499 13.52307,1.06575 15.52768,13.73527 8.71948,22.80437 z"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:60.9583px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.52396"
+       x="615.11005"
+       y="259.93112"
+       id="text835"><tspan
+         sodipodi:role="line"
+         x="615.11005"
+         y="259.93112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:162.556px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.999;stroke-width:1.52396"
+         id="tspan837">Montaigne</tspan><tspan
+         sodipodi:role="line"
+         x="615.11005"
+         y="406.75095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.597px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.999;stroke-width:1.52396"
+         id="tspan839">Laboetie's friend</tspan></text>
   </g>
 </svg>
