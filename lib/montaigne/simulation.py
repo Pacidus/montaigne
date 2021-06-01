@@ -115,7 +115,7 @@ class simulation:
             addnamedtemp(outfile, self.tar, f"{self.opath}/inputs")
 
             # Write a "clean" version of the phi file
-            phi = np.loadtxt(f"{labout}/phi.dat")
+            phi = np.loadtxt(f"{self.opath}/phi.dat")
             np.savetxt(
                 outfile,
                 phi,
@@ -124,7 +124,7 @@ class simulation:
             addnamedtemp(outfile, self.tar, f"{self.opath}/data/phi.dat")
 
             # Write a "clean" version of the charges distributions
-            Chations = np.loadtxt(f"{labout}/pnp_avg_phi_cp_cm_vs_z.dat")
+            Chations = np.loadtxt(f"{self.opath}/pnp_avg_phi_cp_cm_vs_z.dat")
             np.savetxt(
                 outfile,
                 Chations,
