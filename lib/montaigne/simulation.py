@@ -150,4 +150,4 @@ def addnamedtemp(ntemp, tarfile, name):
     ntemp.file.seek(0)
 
     # Save the clean input file
-    tf.add(outfile.name, arcname=name)
+    tarfile.add(ntemp.name, arcname=name)
