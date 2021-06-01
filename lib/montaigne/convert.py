@@ -8,7 +8,7 @@ from .consts import e, epsilon_0, kb, pi, Na
 def bjerrum(epsilon_r, T):
     """
     float * float -> float
-    Hypothesis : T > 0 and (T, epsilon_r) in SI_units 
+    Hypothesis : T > 0 and (T, epsilon_r) in SI_units
     Return the value of the bjerrum length given
     the relative permitivity epsilon_r and the temperature of the medium.
     """
