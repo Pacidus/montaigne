@@ -113,7 +113,9 @@ class simulation:
             # Write a "clean" version of the input file
             write_infile(self.lbin, outfile.name)
             addnamedtemp(outfile, self.tar, f"sim_{self.nrun}/inputs")
-
+            
+        with tp.NamedTemporaryFile() as outfile:
+            
             # Write a "clean" version of the phi file
             phi = np.loadtxt(f"{self.opath}/phi.dat")
             np.savetxt(
@@ -122,7 +124,8 @@ class simulation:
                 header="Electrostatic potential \nz [in nodes]    V [beta e phi]",
             )
             addnamedtemp(outfile, self.tar, f"sim_{self.nrun}/data/phi.dat")
-
+            
+        with tp.NamedTemporaryFile() as outfile:
             # Write a "clean" version of the charges distributions
             Chations = np.loadtxt(f"{self.opath}/pnp_avg_phi_cp_cm_vs_z.dat")
             np.savetxt(
@@ -132,7 +135,7 @@ class simulation:
             )
             addnamedtemp(outfile, self.tar, f"sim_{self.nrun}/data/mean_charges.dat")
 
-            self.nrun += 1
+        self.nrun += 1
 
 
 #################
